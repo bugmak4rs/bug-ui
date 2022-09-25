@@ -9,5 +9,5 @@
 ### **Development plans**
 
 - [ ] Create an accordion
-- [ ] Create an swiper
+- [ ] Create a swiper
 - [ ] Improve quality!!!
