@@ -8,6 +8,9 @@
 
 ### **Development plans**
 
+- [ ] Create a button
+- [ ] Create a input
 - [ ] Create an accordion
-- [ ] Create a swiper
+- [ ] Create a slider
+- [ ] Create a tabs
 - [ ] Improve quality!!!
